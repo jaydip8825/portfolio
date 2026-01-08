@@ -43,7 +43,7 @@ export function Hero() {
               <img src={linkedin} alt="Linkedin" />
             </a>
             <a
-              href="https://github.com/yashjadeja132/"
+              href="https://github.com/jaydip8825/"
               target="_blank"
               rel="noreferrer"
             >

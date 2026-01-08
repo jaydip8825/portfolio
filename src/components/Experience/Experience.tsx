@@ -42,7 +42,7 @@ export function Experience() {
             </div>
             <h4 style={{ display: "flex", justifyContent: "center" }}>
               {" "}
-              SPARROW SOFTTECH (Sept 2023 - Dec 2023)
+              SPARROW SOFTTECH (Sept 2024 - Dec 2024)
             </h4>
             <p
               style={{

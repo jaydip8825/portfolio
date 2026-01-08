@@ -16,7 +16,7 @@ export function Education() {
             </div>
             <h4 style={{ display: "flex", justifyContent: "center" }}>
               {" "}
-              Shantilal Shah Engineering College, Bhavnagar
+              Swami Sahajanand College of computer science
             </h4>
             <p
               style={{
@@ -25,7 +25,7 @@ export function Education() {
                 marginTop: "10px",
               }}
             >
-              2021 - 2025
+              2021 - 2024
             </p>
           </div>
         </ScrollAnimation>
@@ -40,7 +40,7 @@ export function Education() {
             </div>
             <h4 style={{ display: "flex", justifyContent: "center" }}>
               {" "}
-              Sarthi Vidhya Sankul, Bhavnagar
+              Shree Sharda Mandir Vidya Mandir,Talaja,Bhavnagar
             </h4>
             <p
               style={{
@@ -63,7 +63,7 @@ export function Education() {
             </div>
             <h4 style={{ display: "flex", justifyContent: "center" }}>
               {" "}
-              Shree Maruti Vidhya Mandir, Bhavnagar{" "}
+              Shree Saraswati Vidya Mandir,Talaja,Bhavnagar{" "}
             </h4>
             <p
               style={{
