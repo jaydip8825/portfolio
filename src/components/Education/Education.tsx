@@ -12,7 +12,7 @@ export function Education() {
               className="body"
               style={{ display: "flex", justifyContent: "center" }}
             >
-              <h3> Bachelor of Engineering </h3>
+              <h3>  Bachelor of Computer Applications </h3>
             </div>
             <h4 style={{ display: "flex", justifyContent: "center" }}>
               {" "}

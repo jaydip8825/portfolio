@@ -31,13 +31,9 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>RMS (Rental Management System)</h3>
+              <h3>SalaryBox SaaS with Desktop EMS Tracker</h3>
               <p>
-                The Rental Management System is a comprehensive web application
-                designed to streamline the process of managing rental
-                properties, tenants, bills payments, leases, and ledger details.
-                The system ensures efficient and organized management of rental
-                operations.
+                SalaryBox is an employee management and payroll system that helps companies manage attendance, salaries, and employee records efficiently. It also includes a Desktop EMS Tracker to monitor employee working hours, activity, and productivity in real time.
               </p>
             </div>
             <footer>
@@ -76,14 +72,9 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>CMS (Complaint Management System)</h3>
+              <h3>Khodiyar Mandir Website</h3>
               <p>
-                The Complaint Management System (CMS) is a dynamic solution for
-                efficiently handling and resolving reported complaints. The
-                system empowers administrators to swiftly report machine faults,
-                which are seamlessly transmitted to engineers for resolution.
-                This collaborative approach ensures prompt issue resolution and
-                enhances operational efficiency.
+                Khodiyar Mandir Website is a WordPress-based temple information platform designed to share temple details, events, and updates with devotees. The website provides a clean and responsive interface, making it easy for visitors to access important information about the temple and its activities.
               </p>
             </div>
             <footer>
@@ -122,14 +113,9 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>Bed Configurator</h3>
+              <h3>Keyresumes</h3>
               <p>
-                A dynamic web application allowing users to customize their
-                ideal bed configurations. Admins can upload bed images with
-                various layouts, including size, color, storage options, and
-                headboards. Users can then interactively configure their beds
-                based on these options. This project offers a seamless and
-                engaging user experience for creating personalized beds.
+                KeyResumes is a MERN stack-based resume builder application that allows users to create and manage professional resumes online by entering their personal details, skills, and work experience.
               </p>
             </div>
             <footer>
