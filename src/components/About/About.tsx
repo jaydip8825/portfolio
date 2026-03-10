@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import yashjadeja from "../../assets/yashjadejabg.png";
+import yashjadeja from "../../assets/jaydipdhapa.png";
 import reactIcon from "../../assets/react-icon.svg";
 import cIcon from "../../assets/c.svg";
 import nodeIcon from "../../assets/node-icon.svg";

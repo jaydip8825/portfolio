@@ -20,31 +20,31 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/yashjadeja132/"
+          href="#"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/yashjadeja132/"
+          href="#"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919725525757&text=Hello+Yashrajsinh+Jadeja,"
+          // href="https://api.whatsapp.com/send/?phone=%2B919725525757&text=Hello+Yashrajsinh+Jadeja,"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
-        <a href="https://t.me/yashjadeja132" target="_blank" rel="noreferrer">
+        <a href="#" target="_blank" rel="noreferrer">
           <img src={telegram} alt="telegram" />
         </a>
         <a
-          href="https://www.instagram.com/yashjadeja132"
+          href="#"
           target="_blank"
           rel="noreferrer"
         >
